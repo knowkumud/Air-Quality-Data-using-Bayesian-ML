@@ -7,20 +7,21 @@ https://colab.research.google.com/drive/1ocWGpnbGnhPWZejMIs6RJnl3eLr-8hmH?usp=sh
 
 #3 Download a week of PM2.5 dataset from the OpenAQ website for Delhi. Fill in the missing data with appropriate methods. Use i) the sklearn Random Forest regressor; ii) sklearn Linear regression and iii) Gaussian process regressor to interpolate the PM2.5 values across the space. Use all the available features that you can get from the OpenAQ website or elsewhere (e.g., meteorological variables). Compare the results and prepare a table showing the metrics in K-Fold cross-validation setting.
 The dataset is named as measurement_8118
-https://colab.research.google.com/drive/16Cc2EYT4sYoOC8w-XbjcnpuFfy_IxagV?usp=sharing
+	https://colab.research.google.com/drive/16Cc2EYT4sYoOC8w-XbjcnpuFfy_IxagV?usp=sharing
 
 #4 Prepare your own image dataset for binary classification with two classes: Fox v/s Dog. Use an appropriate neural network library (JAX or any other library) and a small CNN 
-https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sharing
+	https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sharing
 
 #5 Summarize the following paper within 200 words:https://arxiv.org/pdf/1906.08158.pdf
 
 #6 Consider a two-mode distribution with a Mixture of Gaussians (both modes should have different heights and locations). Your task is to fit a single Normal distribution to this distribution. Use KL-divergence to minimize the distance between these two distributions. Create an animation that shows the iteration-wise progress as you fit the normal distribution to the two-mode distribution.
-https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing
+	https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing
 
 
 **References**
-https://seeing-theory.brown.edu/
-https://www.mdpi.com/2073-8994/13/4/572
-https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-explained-b09cdae917a
-https://tungmphung.com/information-theory-concepts-entropy-mutual-information-kl-divergence-and-more/
-https://towardsdatascience.com/10-minutes-to-building-a-cnn-binary-image-classifier-in-tensorflow-4e216b2034aa
+	
+	https://seeing-theory.brown.edu/
+	https://www.mdpi.com/2073-8994/13/4/572
+	https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-explained-b09cdae917a
+	https://tungmphung.com/information-theory-concepts-entropy-mutual-information-kl-divergence-and-more/
+	https://towardsdatascience.com/10-minutes-to-building-a-cnn-binary-image-classifier-in-tensorflow-4e216b2034aa
