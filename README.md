@@ -6,6 +6,7 @@ https://colab.research.google.com/drive/1SDq4D2DdW1u6WrG4Da5GmdaT_gErTol_?usp=sh
 https://colab.research.google.com/drive/1ocWGpnbGnhPWZejMIs6RJnl3eLr-8hmH?usp=sharing
 
 #3 Download a week of PM2.5 dataset from the OpenAQ website for Delhi. Fill in the missing data with appropriate methods. Use i) the sklearn Random Forest regressor; ii) sklearn Linear regression and iii) Gaussian process regressor to interpolate the PM2.5 values across the space. Use all the available features that you can get from the OpenAQ website or elsewhere (e.g., meteorological variables). Compare the results and prepare a table showing the metrics in K-Fold cross-validation setting.
+The dataset is named as measurement_8118
 https://colab.research.google.com/drive/16Cc2EYT4sYoOC8w-XbjcnpuFfy_IxagV?usp=sharing
 
 #4 Prepare your own image dataset for binary classification with two classes: Fox v/s Dog. Use an appropriate neural network library (JAX or any other library) and a small CNN 
