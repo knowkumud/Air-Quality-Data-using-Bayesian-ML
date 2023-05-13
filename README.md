@@ -16,3 +16,11 @@ https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sh
 
 #6 Consider a two-mode distribution with a Mixture of Gaussians (both modes should have different heights and locations). Your task is to fit a single Normal distribution to this distribution. Use KL-divergence to minimize the distance between these two distributions. Create an animation that shows the iteration-wise progress as you fit the normal distribution to the two-mode distribution.
 https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing
+
+
+**References**
+https://seeing-theory.brown.edu/
+https://www.mdpi.com/2073-8994/13/4/572
+https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-explained-b09cdae917a
+https://tungmphung.com/information-theory-concepts-entropy-mutual-information-kl-divergence-and-more/
+https://towardsdatascience.com/10-minutes-to-building-a-cnn-binary-image-classifier-in-tensorflow-4e216b2034aa
