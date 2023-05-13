@@ -9,6 +9,7 @@ Original file is located at
 
 
 
+
 """**Question 3**
 Download a week of PM2.5 dataset from the OpenAQ website for Delhi. Fill in the missing data with appropriate methods. Use i) the sklearn Random Forest regressor; ii) sklearn Linear regression and iii) Gaussian process regressor to interpolate the PM2.5 values across the space. Use all the available features that you can get from the OpenAQ website or elsewhere (e.g., meteorological variables). Compare the results and prepare a table showing the metrics in K-Fold cross-validation setting.
 
