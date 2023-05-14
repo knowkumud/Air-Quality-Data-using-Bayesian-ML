@@ -18,10 +18,15 @@ The dataset is named as measurement_8118
 #6 Consider a two-mode distribution with a Mixture of Gaussians (both modes should have different heights and locations). Your task is to fit a single Normal distribution to this distribution. Use KL-divergence to minimize the distance between these two distributions. Create an animation that shows the iteration-wise progress as you fit the normal distribution to the two-mode distribution.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing)
 
-| Task Name     | Status        | Link  
+| Task Name     | Status        | Link        
 | ------------- | ------------- | --------    |
-| 1-Implemetatuin of Inverse CDF for Frechet distribution         | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
+| 1-Implemetation of Inverse CDF for Frechet distribution         | Test1         | `NewYork`   |
+| 2-Implement Entropy & terms         | Test2         | `Toronto`   |
+| 3-AQI Data of Delhi  | Attempted, partial output |      |
+| 4-Image Classification of Fox v/s Dog   |  Attempted  |        |
+| 5-Summary of the Research Paper | Attempted |            |
+| 6-Two-mode distribution with a Mixture of Gaussian | Attempted |        |
+| 7-Kumarswamy Distribution | Read, not attempted |        |
 **References**
 	
 	https://seeing-theory.brown.edu/
