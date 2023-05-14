@@ -1,6 +1,7 @@
 # Air-Quality-Data-using-Bayesian-ML
 #1 Implement Inverse CDF sampling for the Fréchet distribution. With sufficient number of samples, plot the kernel density estimation plot and show that you are able to match the PDF. Also, reproduce the following figure and visualize it
-[A relative link] https://colab.research.google.com/drive/1SDq4D2DdW1u6WrG4Da5GmdaT_gErTol_?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SDq4D2DdW1u6WrG4Da5GmdaT_gErTol_?usp=sharing)
+
 
 #2 Briefly explain and implement from scratch the following functions: i) cross-entropy; ii) entropy; iii) mutual information; iv) conditional entropy; v) KL divergence. Take appropriate example toy data/distributions and explain the insights from calculating these quantities.
 https://colab.research.google.com/drive/1ocWGpnbGnhPWZejMIs6RJnl3eLr-8hmH?usp=sharing
