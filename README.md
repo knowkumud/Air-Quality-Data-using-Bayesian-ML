@@ -1,10 +1,7 @@
 | Task Name     | Status        | Link        
 | ------------- | ------------- | --------    |
-| 1-Implemetation of Inverse CDF for Frechet distribution         | Attempted       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SDq4D2DdW1u6WrG4Da5GmdaT_gErTol_?usp=sharing)
-
-|
-| 2-Implement Entropy & terms         | Attempted       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ocWGpnbGnhPWZejMIs6RJnl3eLr-8hmH?usp=sharing)
-|
+| 1-Implemetation of Inverse CDF for Frechet distribution         | Attempted       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SDq4D2DdW1u6WrG4Da5GmdaT_gErTol_?usp=sharing) |
+| 2-Implement Entropy & terms         | Attempted       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ocWGpnbGnhPWZejMIs6RJnl3eLr-8hmH?usp=sharing)|
 | 3-AQI Data of Delhi  | Attempted, partial output |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Cc2EYT4sYoOC8w-XbjcnpuFfy_IxagV?usp=sharing)    |
 | 4-Image Classification of Fox v/s Dog   |  Attempted  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sharing)      |
 | 5-Summary of the Research Paper | Attempted | [Question 5.md](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/blob/main/Question%205.md)          |
