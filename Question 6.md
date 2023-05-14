@@ -6,5 +6,5 @@ A random sample from the mixture of the two Gaussians which takes the mean, stan
 The two samples generated from the two Gaussian distributions into a single array, samples. The script then plots the histogram of the samples using the matplotlib.pyplot.hist() function, which takes the samples as input, along with the number of bins, the density argument set to True to normalize the histogram, and the alpha argument set to 0.6 to adjust the opacity of the histogram.
 
 The result is plotted on the same graph as the histogram.
-[https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing]File
+[File](https://colab.research.google.com/drive/1KVTqbyU-aEKDHhqjz7CQe6R_kkkmlu5x?usp=sharing)
 
