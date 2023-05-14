@@ -24,7 +24,7 @@ The dataset is named as measurement_8118
 | 2-Implement Entropy & terms         | Test2         | `Toronto`   |
 | 3-AQI Data of Delhi  | Attempted, partial output |      |
 | 4-Image Classification of Fox v/s Dog   |  Attempted  |        |
-| 5-Summary of the Research Paper | Attempted |            |
+| 5-Summary of the Research Paper | Attempted | [a relative link](Question 5.md)           |
 | 6-Two-mode distribution with a Mixture of Gaussian | Attempted |        |
 | 7-Kumarswamy Distribution | Read, not attempted |        |
 **References**
