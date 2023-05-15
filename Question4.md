@@ -7,7 +7,16 @@ https://www.machinelearningnuggets.com/image-classification-with-jax-flax/ After
  I retrain the model and evaluate its performance on the test set.
 The image data set is takem from Google images, Stanford Dogs Dataset, Imagenet
 
+
 https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sharing
+
+![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/a22cbcda-2a35-4563-ad4f-ab79905ba06a)
+
+![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/9f697b05-ddfe-439b-a722-d3d9e84ac26e)
+![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/818ff6ce-8308-4d29-853c-6700e4c8d55f)
+![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/55a9414d-8ba7-4131-ab44-8d20a1d744f3)
+
+
 
 
 **Insights:**
