@@ -17,6 +17,8 @@ Data Set : https://drive.google.com/drive/folders/17Jf3vGXV1mCfQuUmiafi_NjhmtZ6u
 ![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/9f697b05-ddfe-439b-a722-d3d9e84ac26e)
 ![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/818ff6ce-8308-4d29-853c-6700e4c8d55f)
 ![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/55a9414d-8ba7-4131-ab44-8d20a1d744f3)
+![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/7878f339-895d-41f0-b7e2-23a8e3d8943a)
+
 
 
 
