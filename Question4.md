@@ -9,6 +9,7 @@ The image data set is takem from Google images, Stanford Dogs Dataset, Imagenet
 
 
 https://colab.research.google.com/drive/1DnteSNhNQTytM7_vjlQGbvObWrS74Pxx?usp=sharing
+
 Data Set : https://drive.google.com/drive/folders/17Jf3vGXV1mCfQuUmiafi_NjhmtZ6uy0Q?usp=share_link
 
 ![image](https://github.com/knowkumud/Air-Quality-Data-using-Bayesian-ML/assets/88158584/a22cbcda-2a35-4563-ad4f-ab79905ba06a)
